@@ -1,0 +1,4 @@
+dirs/*
+*.o
+defrag
+music.mp3
