@@ -4,7 +4,6 @@
 #include <dirent.h>
 #include <pthread.h>
 #include <math.h>
-#include <errno.h>
 
 void* TraversePath(void *path);
 int GetThreadCount(char *path);
